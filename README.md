@@ -3,7 +3,8 @@
 <img src="/coffeec.png" width="20%">  
 
 ### 現在製作中のプロジェクト/Active Project    
-##### CoffeeOSS 5-An Open Source Japanese Browser (制作進行中/In progress)  
+##### CoffeeOSS 6-An Open Source Browser for Japanese (制作進行中/In progress)  
+##### Moving from the "Yokokiri-Cha" account to the "YokochaYokoha" account.  
 #### 製作アプリ/ソフトの対応プラットフォーム  
 ##### Platforms  
 <img src="/androidimg.png" width="20%"><img src="/windows.png" width="20%">  
