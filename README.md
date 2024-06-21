@@ -1,6 +1,6 @@
 ## 横茶横葉のGitHubアカウントへようこそ!  
 ### Welcome to Yokoha's GitHub main page!   
-<img src="/coffeec.png" width="20%">  
+
 
 ### 現在製作中のプロジェクト/Active Project    
 ##### CoffeeOSS 6-An Open Source Browser for Japanese (制作進行中/In progress)  
