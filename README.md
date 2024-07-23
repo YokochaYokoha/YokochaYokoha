@@ -3,8 +3,8 @@
 
 
 ### 現在製作中のプロジェクト/Active Project    
-##### Coffee for PC Ver.3.0-An Open Source Browser for Japanese (制作進行中/In progress)  
-##### Moving from the "Yokokiri-Cha" account to the "YokochaYokoha" account.  
+##### Coffee for PC Ver.4.0-An Open Source Browser for Japanese (制作進行中/In progress)  
+##### CoffeeSub NewUI 
 #### 製作アプリ/ソフトの対応プラットフォーム  
 ##### Platforms  
 <img src="/androidimg.png" width="20%"><img src="/windows.png" width="20%">  
