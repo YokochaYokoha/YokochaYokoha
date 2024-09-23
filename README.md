@@ -1,4 +1,4 @@
-<img src="./2.png" width="40%">  
+<img src="./2.png" width="32%">  
 
 ## 横茶横葉のGitHubアカウントへようこそ!  
 ### Welcome to Yokoha's GitHub main page!   
@@ -15,6 +15,8 @@ CoffeeUI_CSS
 https://github.com/YokochaYokoha/CoffeeUI_CSS  
 AnzuPortable  
 https://github.com/YokochaYokoha/AnzuPortable  
+
+
 
 <img src="https://github.com/YokochaYokoha/yokochayokoha.github.io/blob/main/trademark.png?raw=true" width="10%">  
 
