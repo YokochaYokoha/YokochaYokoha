@@ -1,4 +1,4 @@
-<img src="./2.png" height="10%">  
+<img src="./2.png" weight="10%">  
 ## 横茶横葉のGitHubアカウントへようこそ!  
 ### Welcome to Yokoha's GitHub main page!   
 
