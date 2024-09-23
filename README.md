@@ -2,17 +2,15 @@
 ### Welcome to Yokoha's GitHub main page!   
 
 
-### 現在製作中のプロジェクト/Active Project    
-##### Coffee for PC Ver.4.0-An Open Source Browser for Japanese (制作進行中/In progress)  
-##### CoffeeSub NewUI 
-#### 製作アプリ/ソフトの対応プラットフォーム  
-##### Platforms  
-<img src="/androidimg.png" width="20%"><img src="/windows.png" width="20%">  
+### 現在製作中のOSSプロジェクト/Active OSS Project    
+##### CoffeeSub Update
 
-#### 互換プラットフォーム  
-##### And more!   
-<img src="/fireos.png" width="20%"><img src="/tv.png" width="20%">
-<img src="/wsa.png" width="20%"><img src="/x86.png" width="20%">  
+### 新しいプロジェクト/Brand New Projects  
+CoffeeUI_CSS  
+https://github.com/YokochaYokoha/CoffeeUI_CSS  
+AnzuPortable  
+https://github.com/YokochaYokoha/AnzuPortable  
+
 #### 横茶横葉  
 ### About me!   
 AndroidとWindowsを愛してやまないとある人です。ソフトやアプリがはじめから作りたかった訳ではなく、OSが好きすぎるから作ってます!  
