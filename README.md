@@ -1,18 +1,19 @@
-![Anzu-San Img_deco](./2.png)
+<img src="./2.png" height="10%">
 ## 横茶横葉のGitHubアカウントへようこそ!  
 ### Welcome to Yokoha's GitHub main page!   
 
-![Anzu-San Img_deco](./1.png)
+<img src="./1.png" height="10%">
 ### 現在製作中のOSSプロジェクト/Active OSS Project    
 ##### CoffeeSub Update
 
-![Anzu-San Img_deco](./3.png)
+<img src="./3.png" height="10%">
 ### 新しいプロジェクト/Brand New Projects  
 CoffeeUI_CSS  
 https://github.com/YokochaYokoha/CoffeeUI_CSS  
 AnzuPortable  
 https://github.com/YokochaYokoha/AnzuPortable  
-![logo Img_deco](https://github.com/YokochaYokoha/yokochayokoha.github.io/blob/main/trademark.png?raw=true)
+<img src="https://github.com/YokochaYokoha/yokochayokoha.github.io/blob/main/trademark.png?raw=true" height="10%">
+
 #### 横茶横葉  
 ### About me!   
 AndroidとWindowsを愛してやまないとある人です。ソフトやアプリがはじめから作りたかった訳ではなく、OSが好きすぎるから作ってます!  
