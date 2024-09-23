@@ -1,4 +1,4 @@
-<img src="./1.png" width="20%">  
+<img src="./1.png" width="25%">
 
 ## 横茶横葉のGitHubアカウントへようこそ!  
 ### Welcome to Yokoha's GitHub main page!   
@@ -8,7 +8,7 @@
 ### 現在製作中のOSSプロジェクト/Active OSS Project    
 CoffeeSub Update  
 
-<img src="./3.png" width="10%">  
+<img src="./3.png" width="10%">
 
 ### 新しいプロジェクト/Brand New Projects  
 CoffeeUI_CSS  
