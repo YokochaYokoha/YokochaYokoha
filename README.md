@@ -11,8 +11,8 @@ CoffeeSub Update
 <img src="./3.png" width="10%">
 
 ### 新しいプロジェクト/Brand New Projects  
-CoffeeUI_CSS  
-https://github.com/YokochaYokoha/CoffeeUI_CSS  
+Caffeine_CSS  
+https://github.com/YokochaYokoha/Caffeine_CSS  
 AnzuPortable  
 https://github.com/YokochaYokoha/AnzuPortable  
 
